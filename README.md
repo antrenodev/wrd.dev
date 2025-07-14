@@ -1,5 +1,4 @@
-### 👋 Hello, I'm [Your Name/GitHub Handle]!
-
+### 👋 Hello, I'm wrd !
 I'm a passionate **Full Stack Developer** with over 3 years of experience in building modern, efficient, and user-friendly web applications. My journey in development is driven by a love for creating seamless user experiences powered by robust backend functionality.
 
 ---
