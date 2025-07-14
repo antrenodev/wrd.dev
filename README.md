@@ -30,7 +30,7 @@ Here's a glimpse into the technologies I work with:
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,10 +44,7 @@ REST APIs, GraphQL, WebSockets
 
 ### 🌱 Current Focus & Interests
 
-* Optimizing performance with **React** and **Vite**.
-* Diving deep into **serverless architectures**.
-* Enhancing **accessibility** in web applications.
-* Continuously exploring new frameworks and tools to expand my toolkit.
+* Get **10+ projects**.
 
 ---
 
