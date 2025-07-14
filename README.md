@@ -1,4 +1,4 @@
-### 👋 Hello, I'm wrd.dev!
+### 👋 Hello, I'm [Your Name/GitHub Handle]!
 
 I'm a passionate **Full Stack Developer** with over 3 years of experience in building modern, efficient, and user-friendly web applications. My journey in development is driven by a love for creating seamless user experiences powered by robust backend functionality.
 
@@ -44,7 +44,10 @@ REST APIs, GraphQL, WebSockets
 
 ### 🌱 Current Focus & Interests
 
-* Get **10+ projects**.
+* Optimizing performance with **React** and **Vite**.
+* Diving deep into **serverless architectures**.
+* Enhancing **accessibility** in web applications.
+* Continuously exploring new frameworks and tools to expand my toolkit.
 
 ---
 
@@ -57,5 +60,4 @@ When I'm not immersed in code, you can find me contributing to **open-source pro
 ---
 
 ### 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihnearobi@gmail.com)
+Email : **robiwebteam@robiweb.shop**
